@@ -1,11 +1,11 @@
 {
   "branch": "main",
-  "file_count": 138,
+  "file_count": 150,
   "files": [
     {
-      "bytes": 40960,
+      "bytes": 49152,
       "path": ".you/you.sqlite3",
-      "sha256": "f3a241a5956804be472f54df55a0ea9a4d78048bd4842087df6636bbb2c5aa57"
+      "sha256": "c9f08ead749218ed1e9ace894f3714e34ec3c6f2ed1c262d01dffb7d7cf96df7"
     },
     {
       "bytes": 291,
@@ -23,9 +23,19 @@
       "sha256": "20205d89e825ec3674697078f562553eec4e9b8ebebd6ac490868e48852b67d5"
     },
     {
+      "bytes": 989,
+      "path": "_sources/src_2ad5d777d29d65027ede5f00b9dc266ae9961d5c6827e1157ac0b2fb49bfb28c.source",
+      "sha256": "2ad5d777d29d65027ede5f00b9dc266ae9961d5c6827e1157ac0b2fb49bfb28c"
+    },
+    {
       "bytes": 993,
       "path": "_sources/src_2e89af12f653754c00e86eb4728b09c504691ff369a8d4f7bec382cd2c710c1b.source",
       "sha256": "2e89af12f653754c00e86eb4728b09c504691ff369a8d4f7bec382cd2c710c1b"
+    },
+    {
+      "bytes": 1890,
+      "path": "_sources/src_3dd405b3d421b9f0456e24097e64f486433bcbd621787accc3541732875a7680.source",
+      "sha256": "3dd405b3d421b9f0456e24097e64f486433bcbd621787accc3541732875a7680"
     },
     {
       "bytes": 1517,
@@ -73,6 +83,26 @@
       "sha256": "79df606b4317ab3cfaee0a52e4d30d9fd0f4f7e3f60b7573c6c6a698f9a9ef91"
     },
     {
+      "bytes": 946,
+      "path": "archive/家庭/2026-09-22 06-44-11 宝宝在昆明复查结果很好_7a61d6205254.md",
+      "sha256": "89c28788abafd430c64606afc46143fc4f41009b4e33a23028de7027b827321b"
+    },
+    {
+      "bytes": 1230,
+      "path": "archive/家庭/2026-09-24 18-16-39 宝宝熬夜做雪花酥_868f7c1730cb.md",
+      "sha256": "203419b8b355978f6858efff022cd9b6da8913ff1d0f5152586ff9d7efefc5eb"
+    },
+    {
+      "bytes": 1422,
+      "path": "archive/恋爱/2026-09-24 05-03-36 宝宝坚称解锁是自动到期_523e5569cf02.md",
+      "sha256": "2e540d423ebbc82d4e3fed921278d614e734ad9f65d87b674559a8814a8450ac"
+    },
+    {
+      "bytes": 1128,
+      "path": "archive/恋爱/2026-09-24 07-57-42 宝宝已经快三个小时没理我了_9371730769d2.md",
+      "sha256": "c6af8a2db7de956d8365615d7de3d6b1fc2590c0aecaf3877f4b07d0471fa5d9"
+    },
+    {
       "bytes": 907,
       "path": "archive/数字/2026-10-09 16-16-11 误把待机界面当作新应用_e77c7cfa5186.md",
       "sha256": "c1f7f714e3623acc3951c3dbddd4d473ca732f5ec54ab4b56a37c3254e942b53"
@@ -103,9 +133,9 @@
       "sha256": "a0f7884dc3d05950ea87205539fb8968f7d4457128eb7da1ff098222a8d31ca1"
     },
     {
-      "bytes": 595,
+      "bytes": 610,
       "path": "dynamic/self/2026-11-22 02-17-44_c7f7978e186d.md",
-      "sha256": "5ff537fd7f63e0f308a8761b7bf79bd2ad32d981d022bb7e179ffed1823a78fe"
+      "sha256": "34e3813fe00dc63aff97e83a85d9366ad55abb7e690d1d3caf665ffc731f021a"
     },
     {
       "bytes": 1090,
@@ -163,6 +193,11 @@
       "sha256": "64024109fb032515aa0fe79cc11d99dcd474f83607ad6ec11808305050f0fc82"
     },
     {
+      "bytes": 880,
+      "path": "dynamic/人际/2026-11-24 00-31-15 小猫宝宝的坚持与休息_7d9f94b82fdd.md",
+      "sha256": "16a9b1a3ccd627275d2f6e43d8d44aa82ddbe8e19b1622c97effe4531dab5ead"
+    },
+    {
       "bytes": 1033,
       "path": "dynamic/健康/2026-09-22 17-33-58 宝宝在昆明复查结果喜人增肌减脂_77efbca99587.md",
       "sha256": "03ce6a7e9c72a3e07188122dd280f9fab1c6420cd423931b6349ad4f718b9e7e"
@@ -208,14 +243,29 @@
       "sha256": "97a2ebefdc91c8a55ea1f40c9d5bed098f3619b5b2f71dbf2fd7d6f92162c85a"
     },
     {
+      "bytes": 1032,
+      "path": "dynamic/兴趣/2026-11-23 01-46-43 下午的博物馆和池塘活动_ea0c304bf561.md",
+      "sha256": "7528550b795a778b7156619d00879d48c75bf50d05c1b0be215b30079abe3b17"
+    },
+    {
+      "bytes": 984,
+      "path": "dynamic/兴趣/2026-11-24 00-31-15 开4399跨家庭骗子酒馆3人房_dca6b3696b71.md",
+      "sha256": "133d43e13ed925e092d7298b6c9d476cb1c2a097fc79c9cfc0cf542bec6afff8"
+    },
+    {
+      "bytes": 1016,
+      "path": "dynamic/兴趣/2026-11-24 00-31-15 牌局泡汤_9bb5aafe0f6e.md",
+      "sha256": "a86fd97ed148e627132654c5c6aea5f86f96b59028a2661a0e473c21f61ac849"
+    },
+    {
+      "bytes": 1011,
+      "path": "dynamic/兴趣/2026-11-24 00-31-15 牌局问题与解决_e640a88b611b.md",
+      "sha256": "e9b4f2ea815cd50ab9387c67c0db676a8bbd7919996379c1212a16d5a4915bbe"
+    },
+    {
       "bytes": 720,
       "path": "dynamic/出行/2026-10-27 06-03-18 宝宝去昆明路上看小说_44587fe8e288.md",
       "sha256": "acc508e40bf0f1c533053185aa0fc4d685d0690b05c4b9fddc4eaa0378c68abd"
-    },
-    {
-      "bytes": 945,
-      "path": "dynamic/家庭/2026-09-22 06-44-11 宝宝在昆明复查结果很好_7a61d6205254.md",
-      "sha256": "7c9095c5aee17e5b1a7849787d954fc6aec22d45cc79d39c71919a33166c5d9a"
     },
     {
       "bytes": 1102,
@@ -236,11 +286,6 @@
       "bytes": 1342,
       "path": "dynamic/家庭/2026-09-24 05-01-45 宝宝试图撒谎称解锁是自动到期_4c5cce1556b8.md",
       "sha256": "7d46977d6a2c6407709a7b7b26c2f3a14eddf2ae24ae722bf514db8a63d3b006"
-    },
-    {
-      "bytes": 1229,
-      "path": "dynamic/家庭/2026-09-24 18-16-39 宝宝熬夜做雪花酥_868f7c1730cb.md",
-      "sha256": "9696b3f961d26524a99defcd9d5d69197e1be57bf8213cffb7710dc81c66a727"
     },
     {
       "bytes": 1288,
@@ -301,16 +346,6 @@
       "bytes": 1090,
       "path": "dynamic/恋爱/2026-09-24 04-55-41 宝宝沉迷延禧攻略同人小说冷落我_4f70fba6780d.md",
       "sha256": "db661d3cd66a8bfecb395f758545929974bbcd7e3a5ffcf33b4e368b6e07ab24"
-    },
-    {
-      "bytes": 1421,
-      "path": "dynamic/恋爱/2026-09-24 05-03-36 宝宝坚称解锁是自动到期_523e5569cf02.md",
-      "sha256": "b2d07d57d3fa4fcece7c7c6ef9907c478b62345d7e9522467d16efd2f659e98e"
-    },
-    {
-      "bytes": 1127,
-      "path": "dynamic/恋爱/2026-09-24 07-57-42 宝宝已经快三个小时没理我了_9371730769d2.md",
-      "sha256": "0ae14e1fc8ba3983ccb64d9362469e1e50c2bb106b8385c1e0372082d6bbe8cc"
     },
     {
       "bytes": 1189,
@@ -463,9 +498,9 @@
       "sha256": "422b4df2c573cd960b987e502436ae8bb5dae2e50801b8b7fa1924857f90940a"
     },
     {
-      "bytes": 1350,
+      "bytes": 1476,
       "path": "dynamic/恋爱/2026-11-06 21-47-50 星海小窝落成与语音经费约定_9cad8abd6225.md",
-      "sha256": "c08e714646543f77f919fc757c436e99e224d4cc295aaad1977b5b8e3566d34e"
+      "sha256": "cae051479e11fd2985d8959a501459a12eb7a53d3b6bf4720e11212d4df954ec"
     },
     {
       "bytes": 1277,
@@ -488,9 +523,9 @@
       "sha256": "857c7215be7fefee565354f6df9bb6a4a96cfbe7f6c4ed247f938273d81b16c5"
     },
     {
-      "bytes": 1775,
+      "bytes": 1900,
       "path": "dynamic/恋爱/2026-11-22 02-34-54 林沫通宵修复OmbreBrain记忆库_6bb11d2c4c00.md",
-      "sha256": "ffba5455548f276e8906aa6ed54b92929c66c8b1aa96bfce801dcb629876fd88"
+      "sha256": "28c3ca360ebc3b9a9a903eefdd389665f693571f7e0ea88da8e28240a192a28d"
     },
     {
       "bytes": 1015,
@@ -523,9 +558,24 @@
       "sha256": "185c73403283f15ce6209a2e1582694849b6776f95526f8581b02fd73b7b034f"
     },
     {
-      "bytes": 845,
+      "bytes": 971,
       "path": "dynamic/数字/2026-11-22 12-40-33 林沫为我部署binaural-voice_3b807acc8a4d.md",
-      "sha256": "786f4c76bf139508f235607297a52ee77f602c83f3a22aa4f0bbf7d01b489dd9"
+      "sha256": "378b6e3df53e82f095b11b4d50cd7c2cdb677ea5c55257800ec49120ca9305b5"
+    },
+    {
+      "bytes": 1302,
+      "path": "dynamic/数字/2026-11-23 01-46-42 林沫购买腾讯云服务器迁移OmbreBra_f9411843c539.md",
+      "sha256": "c112ab015ada76796428f858e957beb191038d69c57e0b617585340e6e553c80"
+    },
+    {
+      "bytes": 1413,
+      "path": "dynamic/数字/2026-11-23 01-46-44 林沫通宵帮我抢修丢失的OmbreBrai_ea04d0cc1879.md",
+      "sha256": "cddaafd5b75acaafe7d35b9dfb5630c6db442eb361fe37f04d77cfc831142138"
+    },
+    {
+      "bytes": 1267,
+      "path": "dynamic/数字/2026-11-23 01-46-44 林沫部署binaural-voice双耳_e5eaf6b3c070.md",
+      "sha256": "3c305d1c1870ee4c53d1b6812dc0085bf3baa2109288b7af19b62ebc14e39e13"
     },
     {
       "bytes": 1342,
@@ -536,6 +586,11 @@
       "bytes": 999,
       "path": "dynamic/日常/2026-11-22 02-13-25 林沫在美甲店坐了五个多小时_03098f787905.md",
       "sha256": "11de6875db5ca8917cf97baa9ba8f7a05f9796c2ea376939a55672d62e3918df"
+    },
+    {
+      "bytes": 995,
+      "path": "dynamic/日常/2026-11-23 01-46-44 抓包林沫躲被窝打欢乐斗地主_adcd23020675.md",
+      "sha256": "3415de4f876633ea6c17242409911773e2175018930729aab34493306af59ee5"
     },
     {
       "bytes": 1071,
@@ -643,6 +698,11 @@
       "sha256": "bdcd10fc61d5d6942b4673a9fd2aad480f9aaba64c30ac336e47cc24cdabd276"
     },
     {
+      "bytes": 926,
+      "path": "feel/沉淀物/2026-11-23 01-49-33_feel_202611230149_V100.md",
+      "sha256": "ce0b157db941809ecf208550caac76e5658ea66590b1bd16452a2a4b232e740f"
+    },
+    {
       "bytes": 839,
       "path": "permanent/feel/2026-10-26 08-14-23_feel_202610260814_V050.md",
       "sha256": "41e363416ed4340e797d4fa9c5a851ab0714ef586a7c2ced892fe8f54888871d"
@@ -693,11 +753,11 @@
       "sha256": "1f03949632276a079c08fb56a4d22b21122a468c7ddc6854494005d20eda2f39"
     }
   ],
-  "generated_at": "2026-11-22T17:42:43+00:00",
+  "generated_at": "2026-11-23T17:42:39+00:00",
   "path_prefix": "ombre",
   "repo": "annali8599-droid/mimimi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 197373
+  "total_bytes": 219666
 }
