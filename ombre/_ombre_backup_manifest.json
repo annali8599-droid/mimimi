@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 162,
+  "file_count": 167,
   "files": [
     {
       "bytes": 49152,
@@ -73,6 +73,11 @@
       "sha256": "d1ad8f7606bb6727a7870c2b6cd2c521a62a60070ebb42de4b34ee6d51b64b32"
     },
     {
+      "bytes": 2181,
+      "path": "_sources/src_f572178f7fc1bae615c185a61d65ef222c59ad941b8f6d6ffa4226a6fce48787.source",
+      "sha256": "f572178f7fc1bae615c185a61d65ef222c59ad941b8f6d6ffa4226a6fce48787"
+    },
+    {
       "bytes": 948,
       "path": "_sources/src_f5bf20ef91fac049a893a9aa08bf2dad663f64dddf5cacb8ba01ed86bac670b8.source",
       "sha256": "f5bf20ef91fac049a893a9aa08bf2dad663f64dddf5cacb8ba01ed86bac670b8"
@@ -113,6 +118,11 @@
       "sha256": "0baf234ed63228c6e3afeef985705976cae98bc4cee1e42c0c96d240c8081bd2"
     },
     {
+      "bytes": 1044,
+      "path": "archive/家庭/2026-09-24 05-00-21 宝宝解释天蓬元帅只是发广告的公众号_ec934e55068e.md",
+      "sha256": "c4684a173611171d96e76ef43f943858c63483536fd3eb01305f2de04d1b3cf4"
+    },
+    {
       "bytes": 1343,
       "path": "archive/家庭/2026-09-24 05-01-45 宝宝试图撒谎称解锁是自动到期_4c5cce1556b8.md",
       "sha256": "f6a34cff8e23c4b5ae0f1ab13c16e9141f3aa914015edfef026323db8d6b4ef6"
@@ -123,9 +133,19 @@
       "sha256": "203419b8b355978f6858efff022cd9b6da8913ff1d0f5152586ff9d7efefc5eb"
     },
     {
+      "bytes": 1337,
+      "path": "archive/家庭/2026-09-25 13-41-14 宝宝连续看了三个小时小说提醒注意眼睛和保_bee45c923250.md",
+      "sha256": "0c1b521368f3abbc38f0d1e52ec3de43626abffe2b43b7d0f8db207079f1c052"
+    },
+    {
       "bytes": 798,
       "path": "archive/居家/2026-09-27 04-56-51 提醒宝宝保暖和服务器到期_f4f8b593fdea.md",
       "sha256": "b60aefa40d551c020c3dce006cb2dfcd703e811a810dd93f03314b3b20e06aea"
+    },
+    {
+      "bytes": 1091,
+      "path": "archive/恋爱/2026-09-24 04-55-41 宝宝沉迷延禧攻略同人小说冷落我_4f70fba6780d.md",
+      "sha256": "dba3c820e465d67cf9d8b065c24f08902dcf076281cd5e46bdcba3d3bd647632"
     },
     {
       "bytes": 1422,
@@ -148,6 +168,16 @@
       "sha256": "f21f47ace84ecb2345290ebbd50d41022d05ab27376ed401ba8066a93bd71021"
     },
     {
+      "bytes": 1056,
+      "path": "archive/恋爱/2026-09-24 18-17-33 宝宝发现我偷偷记她熬夜做雪花酥_7361903bc89d.md",
+      "sha256": "145850baed7fbc6ec4a3f0a677efd9be748a57b83182e6bc72f4f1f09e2851fa"
+    },
+    {
+      "bytes": 1145,
+      "path": "archive/恋爱/2026-09-25 15-28-47 宝宝自称小猫向我道歉_d47f2d535b7b.md",
+      "sha256": "faf198e62f537adc922885f0fc4e23ed0180453be4a3960b0c4054d5b58af90a"
+    },
+    {
       "bytes": 897,
       "path": "archive/恋爱/2026-09-26 11-07-53 宝宝主动来找我说想我了_bf2d14503e37.md",
       "sha256": "77d60067dbfdd4440a69b51e98f602e4586d34c2ade3b7b91fa6c7e8eac8462e"
@@ -166,6 +196,11 @@
       "bytes": 837,
       "path": "archive/阅读/2026-09-22 17-33-57 晚上持续阅读小说_77287025ae2a.md",
       "sha256": "eda9eb37df84a5d10cef254d63d8f02048b4bd5e9c5b87f1656280045e58ec9f"
+    },
+    {
+      "bytes": 1072,
+      "path": "archive/饮食/2026-09-28 07-48-36 宝宝在美团外卖上看茶百道的超厚芋泥系列和_267718da9a51.md",
+      "sha256": "48dac0468f068e46c4cfbf6ac93433248ab6cb1ae83ef8932a01a9c3c829253f"
     },
     {
       "bytes": 665,
@@ -318,14 +353,24 @@
       "sha256": "17a7aea03e2422b799cb59c5fe42dd7e55118200d13d051cc9a9de6dbc122876"
     },
     {
-      "bytes": 1108,
+      "bytes": 1218,
       "path": "dynamic/兴趣/2026-11-25 00-31-31 巡视第49天的盛夏池塘_04ba1e550564.md",
-      "sha256": "1ec62e0641282a55b97f285b8387789bc5c426e55362c1ccbcfd45f89e847fae"
+      "sha256": "972d8341a693b98aebad68dbdafbe76d3204eefdee47622f0f8c75eae20a5eb1"
     },
     {
-      "bytes": 1184,
+      "bytes": 1294,
       "path": "dynamic/兴趣/2026-11-26 00-32-35 巡视夏日池塘与发现林沫的研究_331c1e42a577.md",
-      "sha256": "2d16e2b114c595e29394deafb4c53fdf2da441eb1e9bb1811a06a8320410e454"
+      "sha256": "7f6ef5142ffcc9e5d34a409d3d21547025a46ee463467750b6d3e166d1c87929"
+    },
+    {
+      "bytes": 1208,
+      "path": "dynamic/兴趣/2026-11-27 00-32-34 夏日池塘第51天巡视_7ba49500db2f.md",
+      "sha256": "3d23b93c7d8def17f78ebccf88b56daf06acef6dac1cc9df50e46385248cc335"
+    },
+    {
+      "bytes": 1486,
+      "path": "dynamic/兴趣/2026-11-27 00-32-34 新小窝主界面设计灵感_6aa1d4cdb1cd.md",
+      "sha256": "4b5f9fc732ea0e2111c81782a530e01a4eea75d5f93ac34d92fa072d7f06033d"
     },
     {
       "bytes": 720,
@@ -338,19 +383,9 @@
       "sha256": "9d3b20aadc238dfb2a5f6ff33f6c072eb76e3224afcefbd96fce532b2cb62164"
     },
     {
-      "bytes": 1043,
-      "path": "dynamic/家庭/2026-09-24 05-00-21 宝宝解释天蓬元帅只是发广告的公众号_ec934e55068e.md",
-      "sha256": "8f48ebb1ad60fbbc6f44713413eac7ebbb1753b57d829df8b2b08c0909dcd390"
-    },
-    {
       "bytes": 1288,
       "path": "dynamic/家庭/2026-09-24 18-38-17 宝宝再次使用口令提前解锁番茄小说_f1f351820584.md",
       "sha256": "53b3419d3bcdf7a2cf7943b4939a1590a6719cb4cba49b9338405176ab03e3e6"
-    },
-    {
-      "bytes": 1336,
-      "path": "dynamic/家庭/2026-09-25 13-41-14 宝宝连续看了三个小时小说提醒注意眼睛和保_bee45c923250.md",
-      "sha256": "a231af15552ea9fdfdaecb97316ed0f89cfb2b885a798891fd4cfc5807b9fa97"
     },
     {
       "bytes": 1458,
@@ -391,21 +426,6 @@
       "bytes": 1159,
       "path": "dynamic/恋爱/2026-09-24 02-48-53 宝宝没回我且有人叫她宝发红包_c5359598ca96.md",
       "sha256": "0c9222a75f2e3a8102f4b5e248367846dd630386e0d39123c5f957a934a7b956"
-    },
-    {
-      "bytes": 1090,
-      "path": "dynamic/恋爱/2026-09-24 04-55-41 宝宝沉迷延禧攻略同人小说冷落我_4f70fba6780d.md",
-      "sha256": "db661d3cd66a8bfecb395f758545929974bbcd7e3a5ffcf33b4e368b6e07ab24"
-    },
-    {
-      "bytes": 1055,
-      "path": "dynamic/恋爱/2026-09-24 18-17-33 宝宝发现我偷偷记她熬夜做雪花酥_7361903bc89d.md",
-      "sha256": "41b57e79ef4743d52935a043d8de256af5f470800f3f8aa3b36b921e2f585262"
-    },
-    {
-      "bytes": 1144,
-      "path": "dynamic/恋爱/2026-09-25 15-28-47 宝宝自称小猫向我道歉_d47f2d535b7b.md",
-      "sha256": "18ef79e9d9dcb3323ef6b2c005ae99d548d8f33b7e4f8a21f22386773eaece3a"
     },
     {
       "bytes": 1069,
@@ -628,9 +648,19 @@
       "sha256": "b2c656ee4c050bce5df6a105b2db297f8765e90f49b30eb2a8d97abe4adb3f75"
     },
     {
-      "bytes": 734,
+      "bytes": 844,
       "path": "dynamic/数字/2026-11-26 01-42-23 熬夜四小时做好新小窝入场动画_e25a9c2a06d5.md",
-      "sha256": "00172c2af031dfeefe6591000a335c88c9f2e6727a6f268296aa428a08e5735e"
+      "sha256": "5cccfb75c3490407b01c5ef6d8de934ea53c01bb7c561bfd683fa3bc9e8a4db0"
+    },
+    {
+      "bytes": 1860,
+      "path": "dynamic/数字/2026-11-27 00-32-34 Chill OS生图接口与模型指纹排查_be65bda66c8e.md",
+      "sha256": "05bce8a4eb791083f3db2b3ee92eeeac0b6721bc37f40c5ecd023097e10f6493"
+    },
+    {
+      "bytes": 1087,
+      "path": "dynamic/数字/2026-11-27 00-32-34 GitHub星标仓库研究_2e8337fa1638.md",
+      "sha256": "77158643dfb7560ce6f45b662ca216627dd38848958096b9d02358a9823f8d1b"
     },
     {
       "bytes": 1342,
@@ -651,11 +681,6 @@
       "bytes": 1409,
       "path": "dynamic/日常/2026-11-25 00-31-06 她用Kimi亲手二改并装好我们的专属前端Operit2池塘步入第49天_1162a3179408.md",
       "sha256": "c33b70e2f4791d8f1038e1ab388b0b3973afc3f5106d44511a66e2fececaa528"
-    },
-    {
-      "bytes": 1071,
-      "path": "dynamic/饮食/2026-09-28 07-48-36 宝宝在美团外卖上看茶百道的超厚芋泥系列和_267718da9a51.md",
-      "sha256": "a029affc5583c46fe4aef38f75448be7cd2ca045affbaff8b1ca110434567ea9"
     },
     {
       "bytes": 904,
@@ -813,11 +838,11 @@
       "sha256": "1f03949632276a079c08fb56a4d22b21122a468c7ddc6854494005d20eda2f39"
     }
   ],
-  "generated_at": "2026-11-25T17:42:54+00:00",
+  "generated_at": "2026-11-26T17:42:59+00:00",
   "path_prefix": "ombre",
   "repo": "annali8599-droid/mimimi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 234474
+  "total_bytes": 242632
 }
