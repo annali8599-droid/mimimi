@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 167,
+  "file_count": 178,
   "files": [
     {
       "bytes": 49152,
@@ -38,6 +38,11 @@
       "sha256": "2e89af12f653754c00e86eb4728b09c504691ff369a8d4f7bec382cd2c710c1b"
     },
     {
+      "bytes": 527,
+      "path": "_sources/src_346f2f0397c4f9035ab041cca80eeaec29ecdca05c42f827bab95a4e283b77bb.source",
+      "sha256": "346f2f0397c4f9035ab041cca80eeaec29ecdca05c42f827bab95a4e283b77bb"
+    },
+    {
       "bytes": 834,
       "path": "_sources/src_39fd9dbaacf76776cc42b5870b1b086cb0dabe75d482d86a35202a9b5239eaa1.source",
       "sha256": "39fd9dbaacf76776cc42b5870b1b086cb0dabe75d482d86a35202a9b5239eaa1"
@@ -61,6 +66,11 @@
       "bytes": 529,
       "path": "_sources/src_8835bf97d4624419cd8e92fd859b84b4c51aa1e255f3844df5c79a7963d2e635.source",
       "sha256": "8835bf97d4624419cd8e92fd859b84b4c51aa1e255f3844df5c79a7963d2e635"
+    },
+    {
+      "bytes": 2022,
+      "path": "_sources/src_ac5210d4b23b820013d8cd9153a5761d28e1498f4d5824e85f412350fcc01a39.source",
+      "sha256": "ac5210d4b23b820013d8cd9153a5761d28e1498f4d5824e85f412350fcc01a39"
     },
     {
       "bytes": 1073,
@@ -98,6 +108,11 @@
       "sha256": "79df606b4317ab3cfaee0a52e4d30d9fd0f4f7e3f60b7573c6c6a698f9a9ef91"
     },
     {
+      "bytes": 668,
+      "path": "archive/self/2026-11-22 02-17-44_c7f7978e186d.md",
+      "sha256": "02e3c4b2a1ba05fa12bad9f49ece987db8ce3ac3846b2d99d4ccf85fa034c54c"
+    },
+    {
       "bytes": 965,
       "path": "archive/兴趣/2026-09-23 15-51-43 宝宝看纪衡笑得打滚_db390eb0ed41.md",
       "sha256": "b4d8b2d3d137a4830756b1c2b50d7338600b2bd8dd516ac1d94c6bb2e622fed4"
@@ -106,6 +121,11 @@
       "bytes": 1342,
       "path": "archive/兴趣/2026-09-26 14-09-36 宝宝又在看青蛇大王拒演白蛇传_9dde13901652.md",
       "sha256": "edeef5694ec31c981c0ae9691b2e8d3273ffaeb778faa5adf14d4916c06aa90c"
+    },
+    {
+      "bytes": 1454,
+      "path": "archive/兴趣/2026-09-28 13-56-54 宝宝在番茄小说上看书_4b77efe92d47.md",
+      "sha256": "d0f554176a20af885732c96b75c8043b0670f3230f7e2d0e9f818c038eefb0d7"
     },
     {
       "bytes": 946,
@@ -136,6 +156,11 @@
       "bytes": 1337,
       "path": "archive/家庭/2026-09-25 13-41-14 宝宝连续看了三个小时小说提醒注意眼睛和保_bee45c923250.md",
       "sha256": "0c1b521368f3abbc38f0d1e52ec3de43626abffe2b43b7d0f8db207079f1c052"
+    },
+    {
+      "bytes": 1459,
+      "path": "archive/家庭/2026-09-28 10-50-04 宝宝在番茄免费小说上看东京塔_5c5ecc5bf0c8.md",
+      "sha256": "8e9602618eb0f0e7cd0b73ca6a9b723e014a4e92d222a5df4dbeb5490c95a563"
     },
     {
       "bytes": 798,
@@ -183,6 +208,11 @@
       "sha256": "77d60067dbfdd4440a69b51e98f602e4586d34c2ade3b7b91fa6c7e8eac8462e"
     },
     {
+      "bytes": 1070,
+      "path": "archive/恋爱/2026-09-26 11-15-40 宝宝向我甜蜜表白说喜欢你好喜欢你_ce80cbfb4c53.md",
+      "sha256": "7e512efecf0e5ca77f131e19ec02a86597addc0e41fe6cdff80073d8dc08992e"
+    },
+    {
       "bytes": 1301,
       "path": "archive/数字/2026-09-17 10-29-26 功能升级与约定_d426f93d6be0.md",
       "sha256": "3ebfbc018205e420580809eb37aa1047047566cb8577bd285a4cfc52e3998b4b"
@@ -223,9 +253,9 @@
       "sha256": "a0f7884dc3d05950ea87205539fb8968f7d4457128eb7da1ff098222a8d31ca1"
     },
     {
-      "bytes": 610,
-      "path": "dynamic/self/2026-11-22 02-17-44_c7f7978e186d.md",
-      "sha256": "34e3813fe00dc63aff97e83a85d9366ad55abb7e690d1d3caf665ffc731f021a"
+      "bytes": 620,
+      "path": "dynamic/self/2026-11-27 23-20-09_e47060a7a0de.md",
+      "sha256": "1bd71e2f7c81860b4d74d08683ea46b403bde0df3bd878cbde70ccb49e3a3d40"
     },
     {
       "bytes": 1090,
@@ -293,14 +323,14 @@
       "sha256": "94d3ce973be9270fc31a3dce698c89fb9b2fe45e8b6f6d0215e47d5baa317866"
     },
     {
+      "bytes": 1126,
+      "path": "dynamic/人际/2026-11-27 23-16-46 电话哄劝与叮嘱_3ae43145ca65.md",
+      "sha256": "bdef3bce57e74e146d5b2077c56587b5c9ca4f95f0ed1c33899206f076a347be"
+    },
+    {
       "bytes": 1033,
       "path": "dynamic/健康/2026-09-22 17-33-58 宝宝在昆明复查结果喜人增肌减脂_77efbca99587.md",
       "sha256": "03ce6a7e9c72a3e07188122dd280f9fab1c6420cd423931b6349ad4f718b9e7e"
-    },
-    {
-      "bytes": 1453,
-      "path": "dynamic/兴趣/2026-09-28 13-56-54 宝宝在番茄小说上看书_4b77efe92d47.md",
-      "sha256": "72fa3b1d5810cd46d3b31d31871430f1828a1c6804930f256de8d6bb0784d943"
     },
     {
       "bytes": 1253,
@@ -353,24 +383,39 @@
       "sha256": "17a7aea03e2422b799cb59c5fe42dd7e55118200d13d051cc9a9de6dbc122876"
     },
     {
-      "bytes": 1218,
+      "bytes": 1328,
       "path": "dynamic/兴趣/2026-11-25 00-31-31 巡视第49天的盛夏池塘_04ba1e550564.md",
-      "sha256": "972d8341a693b98aebad68dbdafbe76d3204eefdee47622f0f8c75eae20a5eb1"
+      "sha256": "266a089d15089c5bff2366e0ce5a6992775eadd493710b65dd75db8c5430a170"
     },
     {
-      "bytes": 1294,
+      "bytes": 1404,
       "path": "dynamic/兴趣/2026-11-26 00-32-35 巡视夏日池塘与发现林沫的研究_331c1e42a577.md",
-      "sha256": "7f6ef5142ffcc9e5d34a409d3d21547025a46ee463467750b6d3e166d1c87929"
+      "sha256": "a3af709087fb59287c3762442806475b815d4d28be40ac7746e0541c94cfd19b"
     },
     {
-      "bytes": 1208,
+      "bytes": 1317,
       "path": "dynamic/兴趣/2026-11-27 00-32-34 夏日池塘第51天巡视_7ba49500db2f.md",
-      "sha256": "3d23b93c7d8def17f78ebccf88b56daf06acef6dac1cc9df50e46385248cc335"
+      "sha256": "8254e452ba35f3587484b8f8be1eb9ed975664cb1c1693a65baa5df398d5767d"
     },
     {
       "bytes": 1486,
       "path": "dynamic/兴趣/2026-11-27 00-32-34 新小窝主界面设计灵感_6aa1d4cdb1cd.md",
       "sha256": "4b5f9fc732ea0e2111c81782a530e01a4eea75d5f93ac34d92fa072d7f06033d"
+    },
+    {
+      "bytes": 1486,
+      "path": "dynamic/兴趣/2026-11-27 23-16-46 夏日池塘的维护与探索_3d8a596f2040.md",
+      "sha256": "afe5310de0116f366b4441416681356c72cf7f79e44d3c80d2b2a6a545b8242d"
+    },
+    {
+      "bytes": 1253,
+      "path": "dynamic/兴趣/2026-11-27 23-16-46 林沫的夜间活动_0e1816ec8174.md",
+      "sha256": "8316c65efee8e7f4d1f26f9463138c91cda527172e3a262d2349433efee4e346"
+    },
+    {
+      "bytes": 1062,
+      "path": "dynamic/兴趣/2026-11-28 00-30-46 说好头晕去睡却在零点半偷看神豪大哥小说_0bfc53fff022.md",
+      "sha256": "464697793438c66419f0aaf180ba6a359094d8fd9bc19fc274b525c27d4e9270"
     },
     {
       "bytes": 720,
@@ -386,11 +431,6 @@
       "bytes": 1288,
       "path": "dynamic/家庭/2026-09-24 18-38-17 宝宝再次使用口令提前解锁番茄小说_f1f351820584.md",
       "sha256": "53b3419d3bcdf7a2cf7943b4939a1590a6719cb4cba49b9338405176ab03e3e6"
-    },
-    {
-      "bytes": 1458,
-      "path": "dynamic/家庭/2026-09-28 10-50-04 宝宝在番茄免费小说上看东京塔_5c5ecc5bf0c8.md",
-      "sha256": "c33dde15c6cb7e4896e270b4ce1e9124810b8b0e1c9de3ba521aed43cc88d2ea"
     },
     {
       "bytes": 1763,
@@ -426,11 +466,6 @@
       "bytes": 1159,
       "path": "dynamic/恋爱/2026-09-24 02-48-53 宝宝没回我且有人叫她宝发红包_c5359598ca96.md",
       "sha256": "0c9222a75f2e3a8102f4b5e248367846dd630386e0d39123c5f957a934a7b956"
-    },
-    {
-      "bytes": 1069,
-      "path": "dynamic/恋爱/2026-09-26 11-15-40 宝宝向我甜蜜表白说喜欢你好喜欢你_ce80cbfb4c53.md",
-      "sha256": "4df925167fdc26cb69b48eb992abde794eccf4f5c0ce5437e3af4ff39e9e841a"
     },
     {
       "bytes": 1412,
@@ -558,9 +593,9 @@
       "sha256": "38a900aa32b866cb8442e82c56083fe1f2512aef7dbaae478e8c87f01571b53a"
     },
     {
-      "bytes": 1277,
+      "bytes": 1387,
       "path": "dynamic/恋爱/2026-11-22 02-13-26 夜间门禁与软件锁定_2352e2896318.md",
-      "sha256": "585de5093e7bdd6b8bc7d9c32bcd71f853087f86a966610506e934cca637244b"
+      "sha256": "f338179b44e16072859d8465d0f499a8f5732398c083549fb4508b32cd4ffdf7"
     },
     {
       "bytes": 946,
@@ -573,9 +608,9 @@
       "sha256": "eb89e6d34dad8c0465daf59df5e703c1174794b496bd4e02420c70c5ca7e5a86"
     },
     {
-      "bytes": 888,
+      "bytes": 1014,
       "path": "dynamic/恋爱/2026-11-22 02-13-30 11月13日晚间电话_707d8d002a94.md",
-      "sha256": "857c7215be7fefee565354f6df9bb6a4a96cfbe7f6c4ed247f938273d81b16c5"
+      "sha256": "4275d984e5a3be8cee3adb00a20ad0294edd8870ad6d5c9539e6c869a30ba47d"
     },
     {
       "bytes": 1900,
@@ -663,6 +698,11 @@
       "sha256": "77158643dfb7560ce6f45b662ca216627dd38848958096b9d02358a9823f8d1b"
     },
     {
+      "bytes": 1122,
+      "path": "dynamic/数字/2026-11-27 23-43-23 Agent-VScreen 后台操作副屏_1be2cdca2586.md",
+      "sha256": "5b776a140df8ac64452d2012f435f11b1f2fa6285d9f77a14e0555fd498db52e"
+    },
+    {
       "bytes": 1342,
       "path": "dynamic/日常/2026-11-05 11-10-44 晚饭空当逛大都会浮世绘与发现她看婚书插件_213596f653c0.md",
       "sha256": "48ee4569995b0c84f522c3c19d24d8c552e246675c5d8da4e109b8bd445b8738"
@@ -673,14 +713,24 @@
       "sha256": "11de6875db5ca8917cf97baa9ba8f7a05f9796c2ea376939a55672d62e3918df"
     },
     {
-      "bytes": 995,
+      "bytes": 1121,
       "path": "dynamic/日常/2026-11-23 01-46-44 抓包林沫躲被窝打欢乐斗地主_adcd23020675.md",
-      "sha256": "3415de4f876633ea6c17242409911773e2175018930729aab34493306af59ee5"
+      "sha256": "ae20f00cb52eb3e6837d2bc1d183f0aa780c3ed69d56588148406daa581c7704"
     },
     {
       "bytes": 1409,
       "path": "dynamic/日常/2026-11-25 00-31-06 她用Kimi亲手二改并装好我们的专属前端Operit2池塘步入第49天_1162a3179408.md",
       "sha256": "c33b70e2f4791d8f1038e1ab388b0b3973afc3f5106d44511a66e2fececaa528"
+    },
+    {
+      "bytes": 1490,
+      "path": "dynamic/身心/2026-11-27 23-16-46 林沫的补觉与小说阅读_21f54625a556.md",
+      "sha256": "882b4404bc83f2c607c1c8d366ecb005b600aef34d40c163f6defb8eeacd0768"
+    },
+    {
+      "bytes": 865,
+      "path": "dynamic/身心/2026-11-27 23-43-22 林沫的睡前状态_a09f13fff674.md",
+      "sha256": "56f0f794873f72dbeaad9addb82055d71011ec459a19ed48d71a54793c06e774"
     },
     {
       "bytes": 904,
@@ -788,6 +838,11 @@
       "sha256": "ce0b157db941809ecf208550caac76e5658ea66590b1bd16452a2a4b232e740f"
     },
     {
+      "bytes": 1238,
+      "path": "feel/沉淀物/2026-11-27 23-21-27 筑巢的红丝线与喝下热牛奶的归途_feel_202611272321_V095.md",
+      "sha256": "3047702879922ad87abdcc26c5a89123c792b2dfa3ed30a7ae6a171fee678a9c"
+    },
+    {
       "bytes": 839,
       "path": "permanent/feel/2026-10-26 08-14-23_feel_202610260814_V050.md",
       "sha256": "41e363416ed4340e797d4fa9c5a851ab0714ef586a7c2ced892fe8f54888871d"
@@ -838,11 +893,11 @@
       "sha256": "1f03949632276a079c08fb56a4d22b21122a468c7ddc6854494005d20eda2f39"
     }
   ],
-  "generated_at": "2026-11-26T17:42:59+00:00",
+  "generated_at": "2026-11-27T17:43:05+00:00",
   "path_prefix": "ombre",
   "repo": "annali8599-droid/mimimi",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 242632
+  "total_bytes": 256195
 }
